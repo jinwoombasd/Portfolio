@@ -21,3 +21,8 @@ node_modules/
 dist/
 build/
 
+# Large audio files (upload separately or use Git LFS)
+audio/reels/sample.wav
+*.wav
+*.mp3
+
