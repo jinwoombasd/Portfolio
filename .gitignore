@@ -21,8 +21,6 @@ node_modules/
 dist/
 build/
 
-# Large audio files (upload separately or use Git LFS)
-audio/reels/sample.wav
-*.wav
-*.mp3
+# Large audio files are now tracked with Git LFS
+# *.wav and *.mp3 are tracked via .gitattributes
 
