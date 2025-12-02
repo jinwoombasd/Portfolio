@@ -451,6 +451,16 @@ audio {
   font-weight: 500;
 }
 
+.reel iframe {
+  width: 100%;
+  border-radius: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.reel audio {
+  width: 100%;
+}
+
 /* Services Section */
 .services-intro {
   font-size: 1.1rem;
